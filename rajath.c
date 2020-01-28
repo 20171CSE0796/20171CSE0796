@@ -1,2 +1,2 @@
-8.6 cgpa
+9.6 cgpa
  your 6th sem result
